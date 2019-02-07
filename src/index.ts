@@ -1,6 +1,6 @@
-import 'phaser';
 import { I18nPlugin } from '@koreez/phaser3-i18n';
 import { NinePatchPlugin } from '@koreez/phaser3-ninepatch';
+import 'phaser';
 import { isNullOrUndefined } from 'util';
 import { gameConfig } from './constants/GameConfig';
 import Game from './Game';
@@ -32,7 +32,7 @@ function startGame(): void {
     height: gameConfig.canvasHeight,
     backgroundColor: '#000000',
     parent: 'game-container',
-    title: 'Game Name',
+    title: 'Plane Mania',
     scene: [],
     transparent: true,
     dom: {

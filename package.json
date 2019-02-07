@@ -1,15 +1,15 @@
 {
-  "name": "cordova-phaser-typescript-mobx-boilerplate",
+  "name": "plane-mania",
   "author": "Planet 221B LLC <games@planet221b.com>",
   "version": "1.0.0",
   "private": true,
-  "description": "cordova phaser3 typescript webpack puremvc mobx boilerplate",
+  "description": "online multiplayer shooting game",
   "repository": {
     "type": "git",
-    "url": "git+https://planet221b@bitbucket.org/planet221b/cordova-phaser-typescript-puremvc.git"
+    "url": "git+https://github.com/planet-221b/plane-mania.git"
   },
   "issues": {
-    "url": "https://bitbucket.org/planet221b/cordova-phaser-typescript-puremvc/issues"
+    "url": "https://github.com/planet-221b/plane-mania.git/issues"
   },
   "engines": {
     "node": ">=8.11.2",
